@@ -1,1 +1,2 @@
-# AgenticAI
+# My AgenticAI projects from course work
+...stay tuned for an upload...
